@@ -1,0 +1,3 @@
+  
+         String name = (String) request.getParameter("name");
+         name = name.trim();            //È¥µô×Ö·û´®Ê×Î²¿Õ¸ñ
